@@ -1,6 +1,5 @@
 ---
-redirect_from:
-  - /
+permalink: /
 ---
 
 # About me
