@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# About me
+
 I am a second year PhD student in mathematics at the University of Southampton, working under the supervision of Ashot Minasyan.
 My field is geometric group theory, and my main research interest is nonpositive curvature in group theory.
 Currently I am thinking about the relationship between the profinite topology and quasiconvexity in relatively hyperbolic groups.
