@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /
+---
+
 # About me
 
 I am a second year PhD student in mathematics at the University of Southampton, working under the supervision of Ashot Minasyan.
