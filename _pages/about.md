@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,3 +14,5 @@ Currently I am thinking about the relationship between the profinite topology an
 
 This year I am organising the postgraduate pure mathematics seminar at Southampton.
 Information on talks can be found by clicking the "PGR Seminar" tab above.
+
+In my spare time I like to play guitar (at an amateur level) and go climbing (at an even more amateur level).
