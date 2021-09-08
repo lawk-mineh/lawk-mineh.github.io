@@ -5,33 +5,15 @@ permalink: /seminar/
 author_profile: true
 ---
 
-<script>
-$(function(){
-    $("#clickMe").click(function(){
-        $("#para").toggleClass("expText");
-    })
-});
-
-p{
-     text-overflow: ellipsis;
-     display: block;
-      white-space: nowrap;
-      width:100px;
-}
-
-.expText
-{
-     overflow: hidden;
-}
-</script>
-
-The seminar usually runs at 11.00am on Wednesdays, in room X or virtually through Microsoft Teams.
+The seminar usually runs at 11.00am on Wednesdays, in room X or virtually through Microsoft Teams. 
+Click on a talk to show or hide the abstract.
 
 <h2>Upcoming talks</h2>
 
-<div id="clickMe">29<sup>th</sup> September 2021 - Speaker name, <em>Talk title</em> </div>
-
-<p id="expText">This talk is about bla bla bla and so and so</p>
+<details>
+    <summary>29<sup>th</sup> September 2021 - Speaker name, <em>Talk title</em> 
+    <p id="expText">This talk is about bla bla bla and so and so</p>
+</details>
 
 <div id="clickMe">6<sup>th</sup> October 2021 - Speaker name, <em>Talk title</em> </div>
 
