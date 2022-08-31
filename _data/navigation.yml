@@ -3,14 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks and conferences"
     url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
-    
-  - title: "PGR Seminar"
-    url: /seminar/
        
   - title: "CV"
     url: /cv/
