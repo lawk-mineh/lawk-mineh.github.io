@@ -13,9 +13,10 @@ You may have seen me in the following places, attending the following events:
 - Paris, June 2022 - Hyperbolic groups and their generalisations
 - Oxford, July 2022 - Metric Geometry and Geometric Analysis (MSRI summer school)
 - Manchester, September 2022 - Modern advances in geometric group theory
-
-I will also probably be in the following places, attending the following events:
-
 - Southampton, January 2023 - LMS South West and South Wales Regional Meeting 2023
-- Münster, February 2023 - Young Geomtric Group Theory XI (TBC)
-- Montréal, June 2023 - Thematic program on geometric group theory (TBC)
+- Münster, February 2023 - Young Geomtric Group Theory XI
+
+I will also be in the following places, attending the following events:
+
+- Montréal, May-June 2023 - Thematic program on geometric group theory
+- Edinburgh, July 2023 - Postgraduate group theory conference
