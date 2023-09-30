@@ -22,5 +22,5 @@ You may have seen me in the following places, attending the following events:
 
 I will also be in the following places, attending the following events:
 
-- Exter, February 2024 - Introduction to Modern Advances in Algebra
+- Exeter, February 2024 - Introduction to Modern Advances in Algebra
 - Bielefeld, March 2024 - Topological and Homological Methods in Group Theory
