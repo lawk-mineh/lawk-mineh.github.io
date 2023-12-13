@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 In August 2023, I co-organised the [*Early Career Symposium for Topology, Actions, and Symmetry*](https://sites.google.com/view/soton-ecstasy-2023/home) in Southampton, UK.
+I am co-organising the [*Introduction to Modern Advances in ALgebra*](https://sites.google.com/view/itmaia) conference in Exeter, UK.
 
 You may have seen me in the following places, attending the following events:
 
@@ -24,3 +25,5 @@ I will also be in the following places, attending the following events:
 
 - Exeter, February 2024 - Introduction to Modern Advances in Algebra
 - Bielefeld, March 2024 - Topological and Homological Methods in Group Theory
+- Bristol, April 2024 - YGGT XII
+- Bilbao, April 2024 - GTA: Gran Bilbao V
