@@ -29,4 +29,4 @@ I will also be in the following places, attending the following events:
 - Bristol, June 2024 - Ian Leary's 60th birthday ~~party~~ conference
 - Southampton, June 2024 - The interplay between geometric group theory and K-theory
 - Birmingham, July 2024 - Postgradute group theory conference 2024
-- Bangalore July-August 2024 - Geometry in Groups
+- Bangalore, July-August 2024 - Geometry in Groups
