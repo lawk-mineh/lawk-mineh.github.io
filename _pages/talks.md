@@ -22,7 +22,7 @@ You may have seen me in the following places, attending the following events:
 - Bielefeld, March 2024 - Topological and Homological Methods in Group Theory
 - Bristol, April 2024 - YGGT XII
 - Bilbao, April 2024 - GTA: Gran Bilbao V
-- South England, 2021 to 2024 - Various GGSE meetings
+- South England, 2021-2024 - Various GGSE meetings
 
 I will also be in the following places, attending the following events:
 
