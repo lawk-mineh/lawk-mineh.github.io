@@ -19,12 +19,12 @@ You may have seen me in the following places, attending the following events:
 - Münster, February 2023 - Young Geomtric Group Theory XI
 - Montréal, May-June 2023 - Thematic program on geometric group theory
 - Edinburgh, July 2023 - Postgraduate group theory conference 2023
-
-I will also be in the following places, attending the following events:
-
 - Bielefeld, March 2024 - Topological and Homological Methods in Group Theory
 - Bristol, April 2024 - YGGT XII
 - Bilbao, April 2024 - GTA: Gran Bilbao V
+
+I will also be in the following places, attending the following events:
+
 - Bonn, May 2024 - Homology growth in topology and group theory
 - Bristol, June 2024 - Ian Leary's 60th birthday ~~party~~ conference
 - Southampton, June 2024 - The interplay between geometric group theory and K-theory
