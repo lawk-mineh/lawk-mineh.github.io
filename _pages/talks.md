@@ -22,12 +22,13 @@ You may have seen me in the following places, attending the following events:
 - Bielefeld, March 2024 - Topological and Homological Methods in Group Theory
 - Bristol, April 2024 - YGGT XII
 - Bilbao, April 2024 - GTA: Gran Bilbao V
+- Bonn, May 2024 - Homology growth in topology and group theory
+- Bristol, June 2024 - Learyfest
 - South England, 2022-2024 - Various GGSE meetings
 
 I will also be in the following places, attending the following events:
 
-- Bonn, May 2024 - Homology growth in topology and group theory
-- Bristol, June 2024 - Learyfest
 - Southampton, June 2024 - The interplay between geometric group theory and K-theory
+- Lincoln, July 2024 - Trending aspects in group cohomology
 - Birmingham, July 2024 - Postgradute group theory conference 2024
 - Bangalore, July-August 2024 - Geometry in Groups
