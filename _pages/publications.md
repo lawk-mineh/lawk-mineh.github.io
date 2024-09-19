@@ -10,4 +10,4 @@ author_profile: true
 3. <em>Separability in Morse local-to-global groups</em>, with D. Spriano. Bull. Lond. Math. Soc. (2024): [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/blms.13121), [pdf](https://lawk-mineh.github.io//files/MLTG_sep.pdf), [arxiv](https://arxiv.org/abs/2308.11603)
 4. <em>Quasiconvexity of virtual joins and separability of products in relatively hyperbolic groups</em>, with A. Minasyan. To appear, Alg. Geom. Top., (2022): [pdf](https://lawk-mineh.github.io//files/Separability_of_quasiconvex_products_in_relatively_hyperbolic_groups.pdf), [arXiv](https://arxiv.org/pdf/2207.03362.pdf)
 
-PhD thesis: <em> Quasiconvexity and separability in relatively hyperbolic groups [pdf](https://lawk-mineh.github.io//files/Thesis final.pdf)
+My PhD thesis, <em>Quasiconvexity and separability in relatively hyperbolic groups</em> [pdf](https://lawk-mineh.github.io//files/Thesis final.pdf), combines and unifies a couple of the papers above.
