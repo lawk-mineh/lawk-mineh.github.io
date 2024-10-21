@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lawk Mineh"
   avatar           : "profile.png"
-  bio              : "PhD student"
-  location         : "University of Southampton"
+  bio              : "Postdoctoral researcher"
+  location         : "University of Bonn"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "lm3n20 [at] soton [dot] ac [dot] uk"
+  email            : "lawk [at] math [dot] uni-bonn [dot] de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
