@@ -27,8 +27,9 @@ You may have seen me in the following places, attending the following events:
 - Southampton, June 2024 - The interplay between geometric group theory and K-theory
 - Lincoln, July 2024 - Trending aspects in group cohomology
 - Birmingham, July 2024 - Postgradute group theory conference 2024
+- Bangalore, July-August 2024 - Geometry in Groups
 - South England, 2022-2024 - Various GGSE meetings
 
 I will also be in the following places, attending the following events:
 
-- Bangalore, July-August 2024 - Geometry in Groups
+- Münster, February 2025 - Model theory meets geometric group theory
