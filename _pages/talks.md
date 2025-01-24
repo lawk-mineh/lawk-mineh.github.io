@@ -5,6 +5,8 @@ permalink: /travel/
 author_profile: true
 ---
 
+I am currently a co-organiser for [*Geometry and Groups in North Rhine-Westphalia*](https://sites.google.com/view/ggnrw/home), which is an ongoing series of meetings for those interested in the interactions between geometry and group theory in northwest Germany.
+
 In August 2023, I co-organised the [*Early Career Symposium for Topology, Actions, and Symmetry*](https://sites.google.com/view/soton-ecstasy-2023/home) in Southampton, UK and in February 2024, I co-organised the [*Introduction to Modern Advances in ALgebra*](https://sites.google.com/view/itmaia) conference in Exeter, UK.
 
 You may have seen me in the following places, attending the following events:
@@ -29,7 +31,9 @@ You may have seen me in the following places, attending the following events:
 - Birmingham, July 2024 - Postgradute group theory conference 2024
 - Bangalore, July-August 2024 - Geometry in Groups
 - South England, 2022-2024 - Various GGSE meetings
+- Aachen, December 2024 - Nikolaus conference
 
 I will also be in the following places, attending the following events:
 
 - Münster, February 2025 - Model theory meets geometric group theory
+- Ventotene, September 2025 - Higher dimensional hyperbolic geometry
