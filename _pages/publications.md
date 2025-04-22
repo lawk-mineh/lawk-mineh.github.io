@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. <em>Product separability in central extensions</em>, Preprint (2025) [pdf](https://lawk-mineh.github.io/files/Product_separability_and_extensions.pdf), [arxiv][https://arxiv.org/]
+1. <em>Product separability in central extensions</em>, Preprint (2025) [pdf](https://lawk-mineh.github.io/files/Product_separability_and_extensions.pdf), [arxiv](https://arxiv.org/)
 2. <em>Tiling in some nonpositively curved groups</em>, with J. MacManus. Preprint (2024) [pdf](https://lawk-mineh.github.io//files/AH_Tiling.pdf), [arXiv](https://arxiv.org/abs/2401.09545)
 3. <em>Structure of quasiconvex virtual joins</em>. J. Topol. (2025): [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.70021), [pdf](https://lawk-mineh.github.io//files/struct_joins.pdf),
 4. <em>Separability in Morse local-to-global groups</em>, with D. Spriano. Bull. Lond. Math. Soc. (2024): [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/blms.13121), [pdf](https://lawk-mineh.github.io//files/MLTG_sep.pdf),
