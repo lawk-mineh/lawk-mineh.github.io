@@ -12,3 +12,5 @@ I am teaching a course on geometric group theory in the winter semester of 2025/
 [Lecture 2](https://lawk-mineh.github.io//files/course/Lecture_2.pdf): Quasi-geodesics, the Milnor-Schwarz lemma, classical hyperbolic geometry.
 
 [Lecture 3](https://lawk-mineh.github.io//files/course/Lecture_3.pdf): Some more classical hyperbolic geometry, hyperbolic metric spaces, the Morse Lemma.
+
+[Lecture 4](https://lawk-mineh.github.io//files/course/Lecture_4.pdf): Quasi-isometric invariance of hyperbolicity, local quasigeodesics in hyperbolic spaces, quasiconvexity
