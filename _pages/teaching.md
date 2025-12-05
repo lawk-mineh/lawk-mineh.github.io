@@ -20,3 +20,5 @@ I am teaching a course on geometric group theory in the winter semester of 2025/
 [Lecture 6](https://lawk-mineh.github.io//files/course/Lecture_6.pdf): Hyperbolic groups, centralisers of elements, and finite subgroups.
 
 [Lecture 7](https://lawk-mineh.github.io//files/course/Lecture_7.pdf): Convergence groups: set-up and basic theory.
+
+[Lecture 8](https://lawk-mineh.github.io//files/course/Lecture_8.pdf): Ping-pong, Tits' alternative, conical limit points and uniform convergence groups.
