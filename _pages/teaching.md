@@ -22,3 +22,5 @@ I am teaching a course on geometric group theory in the winter semester of 2025/
 [Lecture 7](https://lawk-mineh.github.io//files/course/Lecture_7.pdf): Convergence groups: set-up and basic theory.
 
 [Lecture 8](https://lawk-mineh.github.io//files/course/Lecture_8.pdf): Ping-pong, Tits' alternative, conical limit points and uniform convergence groups.
+
+[Lecture 9](https://lawk-mineh.github.io//files/course/Lecture_9.pdf): Topological refomulation of convergence groups, groups acting on hyperbolic spaces are convergence.
