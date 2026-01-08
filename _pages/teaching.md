@@ -26,3 +26,5 @@ I am teaching a course on geometric group theory in the winter semester of 2025/
 [Lecture 9](https://lawk-mineh.github.io//files/course/Lecture_9.pdf): Topological refomulation of convergence groups, groups acting on hyperbolic spaces are convergence.
 
 [Lecture 10](https://lawk-mineh.github.io//files/course/Lecture_10.pdf): Boundaries of hyperbolic groups: topology and classification.
+
+[Lecture 10](https://lawk-mineh.github.io//files/course/Lecture_11.pdf): Algorithms and group theory, small cancellation theory.
