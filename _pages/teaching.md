@@ -27,4 +27,4 @@ I am teaching a course on geometric group theory in the winter semester of 2025/
 
 [Lecture 10](https://lawk-mineh.github.io//files/course/Lecture_10.pdf): Boundaries of hyperbolic groups: topology and classification.
 
-[Lecture 10](https://lawk-mineh.github.io//files/course/Lecture_11.pdf): Algorithms and group theory, small cancellation theory.
+[Lecture 11](https://lawk-mineh.github.io//files/course/Lecture_11.pdf): Algorithms and group theory, small cancellation theory.
