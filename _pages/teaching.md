@@ -32,3 +32,5 @@ I am teaching a course on geometric group theory in the winter semester of 2025/
 [Lecture 12](https://lawk-mineh.github.io//files/course/Lecture_12.pdf): The Rips construction, quasiconvex subgroups, and classifying spaces for hyperbolic groups.
 
 [Lecture 13](https://lawk-mineh.github.io//files/course/Lecture_13.pdf): Amalgamated products, HNN extensions, ends of groups and Stallings' theorem.
+
+[Lecture 14](https://lawk-mineh.github.io//files/course/Lecture_13.pdf): Bass--Serre theory: theory, examples, and applications, accessibility theory.
