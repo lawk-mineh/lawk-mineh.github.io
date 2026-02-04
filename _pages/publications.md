@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. <em>Realising all countable groups as quasi-isometry groups</em>, with P. Heim and J. MacManus Preprint (2026) [pdf](https://lawk-mineh.github.io/files/QI-groups.pdf), [arXiv](https://arxiv.org/abs/2601.06261)
+1. <em>Realising all countable groups as quasi-isometry groups</em>, with P. Heim and J. MacManus. Preprint (2026) [pdf](https://lawk-mineh.github.io/files/QI-groups.pdf), [arXiv](https://arxiv.org/abs/2601.06261)
 2. <em>Product separability in central extensions</em>, Preprint (2025) [pdf](https://lawk-mineh.github.io/files/Product_separability_and_extensions.pdf), [arXiv](https://arxiv.org/abs/2504.15762)
 3. <em>Tiling in some nonpositively curved groups</em>, with J. MacManus. Preprint (2024) [pdf](https://lawk-mineh.github.io//files/AH_Tiling.pdf), [arXiv](https://arxiv.org/abs/2401.09545)
 4. <em>Structure of quasiconvex virtual joins</em>. J. Topol. (2025): [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.70021), [pdf](https://lawk-mineh.github.io//files/struct_joins.pdf),
