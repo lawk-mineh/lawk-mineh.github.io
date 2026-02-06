@@ -10,7 +10,7 @@ I taught a course on geometric group theory in the winter semester of 2025/6, th
 <details>
   <summary>Notes by lecture</summary>
   <ul>
-  <li>[Lecture 1](https://lawk-mineh.github.io//files/course/Lecture_1.pdf): Group presentations, actions, Cayley graphs, and quasi-isometries.</li>
+  <li><a href="https://lawk-mineh.github.io//files/course/Lecture_1.pdf">Lecture 1</a> Group presentations, actions, Cayley graphs, and quasi-isometries.</li>
   <li>[Lecture 2](https://lawk-mineh.github.io//files/course/Lecture_2.pdf): Quasi-geodesics, the Milnor-Schwarz lemma, classical hyperbolic geometry.</li>
   <li>[Lecture 3](https://lawk-mineh.github.io//files/course/Lecture_3.pdf): Some more classical hyperbolic geometry, hyperbolic metric spaces, the Morse Lemma.</li>
   <li>[Lecture 4](https://lawk-mineh.github.io//files/course/Lecture_4.pdf): Quasi-isometric invariance of hyperbolicity, local quasigeodesics in hyperbolic spaces, quasiconvexity.</li>
