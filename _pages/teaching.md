@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I taught a course on geometric group theory in the winter semester of 2025/6, the notes of which are can be found [here](https://lawk-mineh.github.io/files/course/Geometric_Group_Theory.pdf). It still requires some editing to insert references and so on, and maybe at some point I will add pictures. Comments and corrections are always appreciated. Below you can find a breakdown of the notes in terms of what I covered in each lecture, which may contain more errors than the above document.
+I taught a course on geometric group theory in the winter semester of 2025/6, the notes for which are can be found [here](https://lawk-mineh.github.io/files/course/Geometric_Group_Theory.pdf). It still requires some editing to insert references and so on, and maybe at some point I will add pictures. Comments and corrections are always appreciated. Below you can find a breakdown of the notes in terms of what I covered in each lecture, which may contain more errors than the above document.
 
 <details>
   <summary>Notes by lecture</summary>
