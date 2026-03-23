@@ -6,5 +6,8 @@ main:
   - title: "Conferences"
     url: /travel/    
 
+  - title: "Seminar"
+    url: /seminar/
+
   - title: "Teaching"
     url: /teaching/    
