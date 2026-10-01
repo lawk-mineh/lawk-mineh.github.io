@@ -7,7 +7,7 @@ author_profile: true
 
 I am currently a co-organiser for [*Geometry and Groups in North Rhine-Westphalia*](https://sites.google.com/view/ggnrw/home), which is an ongoing series of meetings for those interested in the interactions between geometry and group theory in northwest Germany.
 
-In August 2023, I co-organised the [*Early Career Symposium for Topology, Actions, and Symmetry*](https://sites.google.com/view/soton-ecstasy-2023/home) in Southampton, UK and in February 2024, I co-organised the [*Introduction to Modern Advances in Algebra*](https://sites.google.com/view/itmaia) conference in Exeter, UK.
+In August 2023, I co-organised the [*Early Career Symposium for Topology, Actions, and Symmetry*](https://sites.google.com/view/soton-ecstasy-2023/home) in Southampton, UK and in February 2024, I co-organised the [*Introduction to Modern Advances in Algebra*](https://sites.google.com/view/itmaia) conference in Exeter, UK. I helped in the organisation of [*Automorphism groups in Bonn*](https://sites.google.com/view/autbonn/home) in September 2026.
 
 You may have seen me in the following places, attending the following events:
 
@@ -35,5 +35,7 @@ You may have seen me in the following places, attending the following events:
 - Münster, February 2025 - Model theory meets geometric group theory
 - Copenhagen, April 2025 - YGGT XIII
 - Madrid, May 2025 - Surface bundles conference
-- Dublin, June 2025 - Bridon60
+- Dublin, June 2025 - Bridson60
 - Cambridge, July/September 2025 - Non-positive curvature and applications
+- Madrid, June 2026 - Aspherical 2-complexes and their fundamental groups
+- Oxford, September 2026 - Fibrations in group theory and topology
